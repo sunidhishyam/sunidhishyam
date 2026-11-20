@@ -1,101 +1,122 @@
 <div align="center">
 
-<img src="assets/profile.png" width="150" style="border-radius: 50%;" alt="Sunidhi Shyam" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00F5FF&height=220&section=header&text=SUNIDHI%20SHYAM&fontSize=46&fontColor=00F5FF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer&descAlignY=58&descSize=18&descColor=A076F9" width="100%" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunidhi+Shyam;Software+Developer;Building+clean%2C+useful+things;Always+learning+something+new" alt="Typing SVG" />
-</a>
+<img src="assets/profile.png" width="140" style="border-radius:50%;border:3px solid #00F5FF;box-shadow:0 0 25px #00F5FF;" alt="Sunidhi Shyam" />
 
-<!-- Wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=fadeIn" width="100%" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+whoami+%E2%80%94+Sunidhi+Shyam;%3E+building+for+the+web;%3E+crafting+clean+%2B+scalable+code;%3E+status%3A+always_shipping" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/github/followers/sunidhishyam?label=FOLLOWERS&style=for-the-badge&color=0F0C29&labelColor=00F5FF&logoColor=000" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0F0C29" />
+  <img src="https://img.shields.io/badge/BASED%20IN-INDIA-A076F9?style=for-the-badge&labelColor=0F0C29" />
+</p>
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/sunidhishyam">
-    <img src="https://komarev.com/ghpvc/?username=sunidhishyam&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
-  </a>
-  <img src="https://img.shields.io/github/followers/sunidhishyam?label=Followers&style=for-the-badge&color=6C63FF" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+## ⚡ `./about.sh`
 
-### 👩‍💻 About Me
+```ansi
+┌─[sunidhi@dev]─[~]
+└──╼ $ cat profile.yaml
 
-```yaml
-name: Sunidhi Shyam
-role: Software Developer
-focus: Web Development
-currently: "Learning, building, and shipping code 🚀"
-fun_fact: "This README animates itself ✨"
+name       : Sunidhi Shyam
+role       : Software Developer
+stack      : Web Development (Frontend ⟶ Backend)
+currently  : Building & shipping clean, scalable code
+exploring  : React ecosystems • Node.js APIs • modern UI/UX
+mindset    : "ship fast, refine always"
 ```
 
-- 🔭 I'm currently building and refining web projects
-- 🌱 I'm always leveling up my frontend & backend skills
-- 💬 Ask me about JavaScript, React, or Node.js
-- ⚡ Fun fact: I debug better with coffee ☕
+<br/>
 
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,npm,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunidhishyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhishyam&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunidhishyam&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunidhishyam&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunidhishyam/sunidhishyam/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-> Generated automatically by GitHub Actions — see `.github/workflows/snake.yml`
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:sunidhishyam19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sunidhishyam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 🧬 `tech.stack`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma,npm&theme=dark" />
+
 </div>
 
-<p align="center"><i>⭐ Thanks for stopping by — feel free to explore my repos!</i></p>
+<br/>
+
+<table align="center">
+<tr>
+<td>
+
+**Frontend**
+```
+HTML5      ████████████████████ 95%
+CSS3       ██████████████████░░ 90%
+JavaScript ████████████████░░░░ 85%
+React      ███████████████░░░░░ 80%
+```
+
+</td>
+<td>
+
+**Backend & Tools**
+```
+Node.js    ██████████████░░░░░░ 75%
+Git/GitHub ████████████████████ 95%
+VS Code    ████████████████████ 98%
+Figma      █████████████░░░░░░░ 70%
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 📡 `./stats --live`
+
+<div align="center">
+
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=sunidhishyam&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A076F9&text_color=c9d1d9&count_private=true" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhishyam&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunidhishyam&theme=react&hide_border=true&background=0D1117&ring=00F5FF&fire=A076F9&currStreakLabel=00F5FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunidhishyam&bg_color=0D1117&color=00F5FF&line=A076F9&point=ffffff&hide_border=true" width="100%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 🏆 `achievements.unlock()`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sunidhishyam&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</div>
+
+## 🐍 `contribution.animate()`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/sunidhishyam/sunidhishyam/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 📡 `./connect --all`
+
+<div align="center">
+
+<a href="mailto:sunidhishyam19@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-00F5FF?style=for-the-badge&logo=gmail&logoColor=0F0C29&labelColor=0F0C29" />
+</a>
+<a href="https://github.com/sunidhishyam">
+  <img src="https://img.shields.io/badge/GITHUB-A076F9?style=for-the-badge&logo=github&logoColor=0F0C29&labelColor=0F0C29" />
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:302B63,100:0F0C29&height=120&section=footer" width="100%" />
+
+<i>⚡ built different · rendered live from GitHub Actions ⚡</i>
+</div>
